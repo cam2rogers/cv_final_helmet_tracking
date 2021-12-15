@@ -21,7 +21,7 @@ vid_labels = pd.read_csv(working_dir + "train_labels.csv")
 # Types of tracking algorithms that could be used
 
 def create_tracker_csrt():
-  tracker = cv2.legacy_TrackerCSRT.create()
+  tracker = cv2.legacy.TrackerCSRT_create()
   return tracker
 
 
