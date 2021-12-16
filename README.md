@@ -3,4 +3,5 @@ Final Project for Computer Vision (Fall 2021) - NFL First &amp; Future Helmet Tr
 
 ## Files
 py: Contains Python scripts that execute the models in our project
-- 
+- csrt_multitracker.py: Cam
+- fastrcnn_tracker.py: Cam
