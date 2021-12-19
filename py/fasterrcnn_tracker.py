@@ -102,7 +102,7 @@ def get_valid_transform():
         ToTensorV2(p=1.0)
     ], bbox_params={'format': 'pascal_voc', 'label_fields': ['labels']})
 
-# Loading Fast R-CNN (ResNet50 Model), pretrained weights on COCO dataset
+# Loading Faster R-CNN (ResNet50 Model), pretrained weights on COCO dataset
 model = torchvision.models.detection.fasterrcnn_resnet50_fpn(pretrained=True)
 
 # replace the classifier by adjusting number of classes
