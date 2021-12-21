@@ -1,5 +1,6 @@
 # Final Project: NFL Helmet Tracking / Detetction
-Final Project for Computer Vision (Fall 2021) - NFL First &amp; Future Helmet Tracking (Kaggle Challenge)
+Final Project for Computer Vision (Fall 2021) - NFL First &amp; Future Helmet Tracking [(Kaggle Challenge)](https://www.kaggle.com/c/nfl-impact-detection/overview)
+Data descriptions and download can be found [here](https://www.kaggle.com/c/nfl-impact-detection/data)
 
 ## Files
 py: Contains Python scripts that execute the models in our project
